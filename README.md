@@ -7,7 +7,7 @@ https://user-images.githubusercontent.com/16627838/187595241-e0d5e666-f4be-43fa-
 
 
 ## Installation
-
+NODE VERSION SHOULD BE EQUAL OR GREATER THAN 14.18
 Use the package manager [npm](https://www.npmjs.com/) [yarn](https://yarnpkg.com/) to install the dependencies.
 
 
