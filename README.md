@@ -2,6 +2,10 @@
 
 A powerful code editor
 
+
+https://user-images.githubusercontent.com/16627838/187595241-e0d5e666-f4be-43fa-8490-aa07faabec0d.mp4
+
+
 ## Installation
 
 Use the package manager [npm](https://www.npmjs.com/) [yarn](https://yarnpkg.com/) to install the dependencies.
