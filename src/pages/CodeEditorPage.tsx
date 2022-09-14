@@ -8,6 +8,7 @@ import TreeDemo from '../components/TreeDemo';
 import { ICodeEditorContext, IFileTreeItem, IFile } from '../types/file-types';
 import FileService from '../services/file-service';
 import NotificationService from '../services/notification-service';
+import TreeNew from '../components/TreeNew';
 
 export const EditorContext = createContext({} as ICodeEditorContext);
 
@@ -135,7 +136,7 @@ export default function CodeEditorPage({ fileService, notificationService }: IPr
               Loading...
             </div>
           )}
-          {!!tree?.length && <TreeDemo />}
+          {!!tree?.length && <TreeNew />}
         </div>
         <div className="right-code-editor" data-testid="right-code-editor-id">
           <CodeEditor />
